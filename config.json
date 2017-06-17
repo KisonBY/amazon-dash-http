@@ -1,0 +1,20 @@
+{
+    "dash-buttons":
+    [
+        {
+            "name": "Bounty",
+            "mac": "68:37:e9:04:5d:8b",
+            "url": "http://google.com"
+        },
+        {
+            "name": "Cascade",
+            "mac": "68:54:fd:98:2c:0f",
+            "url": "http://127.0.0.1/Test"
+        },
+        {
+            "name": "Charmin",
+            "mac": "68:37:e9:ce:87:a1",
+            "url": "http://sure-there-is-no-address-like-this-dfhadsjfhadlfha.com"
+        }
+    ]
+}
